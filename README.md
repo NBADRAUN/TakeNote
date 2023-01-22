@@ -4,14 +4,16 @@
 This application will allow you to take notes, edit notes and delete notes.  
 
 ## Installation
-
+No installation is required.  
 
 
 ## Usage
 
 
 ## License
-
+MIT License
+- This application is covered under the MIT license. 
+- https://opensource.org/licenses/MIT
 
 
 ## User Story
@@ -36,11 +38,15 @@ This application will allow you to take notes, edit notes and delete notes.
 
 ## Screenshot of Application:  
 
-Team Org Chart Generator <br>
-<img src="Challenge10.PNG" alt="Picture of the Challenge 10 HTML Output">
+Note Taker Application <br>
+<img src="public\assets\appphotos\picture1.PNG" alt="Picture of the Take Note Application">
+<img src="public\assets\appphotos\picture2.PNG" alt="Picture of the Take Note Application">
 
-Video of Team Org Chart Generator being run <br>
-[Untitled_ Jan 15, 2023 10_34 AM.webm](https://user-images.githubusercontent.com/114446244/212557923-8d1827b9-d8e9-4ae8-8cbb-056c2442decb.webm)
+Video of Take Note Application being run <br>
+<video width="1080" height="720" controls><source src="public\assets\appphotos\takenotevideo.webm" type="video/mp4">
+</video>
+
+
 
 ## Questions 
 - Github profile - https://github.com/NBADRAUN
