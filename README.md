@@ -46,6 +46,8 @@ Video of Take Note Application being run <br>
 <video width="1080" height="720" controls><source src="public\assets\appphotos\takenotevideo.webm" type="video/mp4">
 </video>
 
+[takenotevideo.webm](https://user-images.githubusercontent.com/114446244/213940904-59f48591-2800-4249-85bd-59fba06a9791.webm)
+
 
 
 ## Questions 
