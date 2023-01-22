@@ -132,6 +132,9 @@ app.get("/notes", (req, res) => {
 });
 
 /// server localhost listen ////
-app.listen(PORT, () =>
-  console.log(`Example app listening at http://localhost:${PORT}`)
-);
+// app.listen(PORT, () =>
+//   console.log(`Example app listening at http://localhost:${PORT}`)
+// );
+
+app.listen(process.env.PORT || PORT)
+console.log(`Example app listening at http://localhost:${PORT}`)
