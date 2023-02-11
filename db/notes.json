@@ -1,27 +1,12 @@
 [
     {
-        "title": "Note 1",
-        "text": "note",
-        "note_id": "1"
-    },
-    {
-        "title": "Note 2",
-        "text": "note",
+        "title": "hi",
+        "text": "hi",
         "note_id": "2"
     },
     {
-        "title": "Note 3",
-        "text": "Note",
-        "note_id": "3"
-    },
-    {
-        "title": "Note 4",
-        "text": "Note",
-        "note_id": "4"
-    },
-    {
-        "title": "note 6",
-        "text": "note",
-        "note_id": "5"
+        "title": "hello",
+        "text": "hello",
+        "note_id": "2"
     }
 ]

@@ -45,6 +45,8 @@ app.post("/api/notes", (req, res) => {
   ////destructuring the req body ///
   const { title, text } = req.body;
   //// setting the note_id number to increment by one
+  
+
   const noteNumber = notesJSON.length + 1;
   const noteNumberString = noteNumber.toString();
   // checking to make sure title and text is not blank from the user //
@@ -131,10 +133,6 @@ app.get("/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "/public/notes.html"));
 });
 
-/// server localhost listen ////
-// app.listen(PORT, () =>
-//   console.log(`Example app listening at http://localhost:${PORT}`)
-// );
 
 app.listen(process.env.PORT || PORT)
 console.log(`Example app listening at http://localhost:${PORT}`)

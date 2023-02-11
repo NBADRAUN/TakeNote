@@ -10,6 +10,18 @@ No installation is required.
 ## Usage
 
 
+
+
+When cloning and running application follow these steps:  
+1.  Start your terminal and run "node server" 
+2.  Open a web browser and go to http://localhost:3001
+3.  Click on "get started" blue button from the homepage
+4.  To add a note, type the note title and note text in the middle fo the screen.  then press the "+" symbol.  To see the note in the left hand screen, click the browser refresh button.  
+5.  to delete a note, locate the note on the left hand side of the screen.  then click the red trash can next to the note.  
+
+
+
+
 ## License
 MIT License
 - This application is covered under the MIT license. 
