@@ -57,6 +57,8 @@ Note Taker Application <br>
 Video of Take Note Application being run <br>
 https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview
 
+<video src='[your URL here](https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview)' width=400/>
+
 
 ## Questions 
 - Github profile - https://github.com/NBADRAUN
