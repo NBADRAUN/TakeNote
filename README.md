@@ -55,7 +55,7 @@ Note Taker Application <br>
 <img src="public\assets\images\picture2.png" alt="Picture of the Take Note Application">
 
 Video of Take Note Application being run <br>
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview)
+[![Watch the video]([[https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview)](https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview)
 
 
 ## Questions 
