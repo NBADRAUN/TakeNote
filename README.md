@@ -51,8 +51,8 @@ MIT License
 ## Screenshot of Application:  
 
 Note Taker Application <br>
-<img src="public\assets\images\picture1.PNG" alt="Picture of the Take Note Application">
-<img src="public\assets\images\picture2.PNG" alt="Picture of the Take Note Application">
+<img src="public\assets\images\picture1.png" alt="Picture of the Take Note Application">
+<img src="public\assets\images\picture2.png" alt="Picture of the Take Note Application">
 
 Video of Take Note Application being run <br>
 <video width="1080" height="720" controls><source src="public\assets\appphotos\takenotevideo.webm" type="video/mp4">
