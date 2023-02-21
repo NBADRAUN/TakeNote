@@ -55,8 +55,10 @@ Note Taker Application <br>
 <img src="public\assets\images\picture2.png" alt="Picture of the Take Note Application">
 
 Video of Take Note Application being run <br>
-<video width="1080" height="720" controls><source src="public\assets\appphotos\takenotevideo.webm" type="video/mp4">
+<video width="1080" height="720" controls><source src="https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview">
 </video>
+
+<iframe src="https://drive.google.com/file/d/1J-JxHX5jSKsiLTIfe06Co5gdhQ8jDb93/preview" width="640" height="480"></iframe>
 
 [takenotevideo.webm](https://user-images.githubusercontent.com/114446244/213940904-59f48591-2800-4249-85bd-59fba06a9791.webm)
 
